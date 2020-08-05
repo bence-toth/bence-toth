@@ -1,7 +1,14 @@
-### Hi there 👋
+<!--
+**bence-toth/bence-toth** is a ✨ _special_ ✨ repository
+because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+<div align="center">
+  <img src="./header.webp" alt="Hello, I'm Bence A. Toth" />
+</div>
 
 <!--
-**bence-toth/bence-toth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
