@@ -4,7 +4,7 @@ because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <div align="center">
-  <img src="./header.webp" alt="Hello, I'm Bence A. Toth" />
+  <img src="./bence-toth-header.jpg" alt="Hello, I'm Bence A. Toth" />
 </div>
 
 <!--
