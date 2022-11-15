@@ -9,7 +9,7 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 Front-end developer, software architect, tech lead, mentor, teacher, tutor, volunteer, open source advocate, functional programming enthusiast, a11y nerd, CSS ninja.
 
-Currently working as a Team Lead at @Zendesk.
+Currently working as a Team Lead at [Zendesk](https://github.com/zendesk), and volunteering at [HackYourFuture](https://github.com/HackYourFuture-CPH), [Impact Roasters](https://github.com/impact-roasters), [HealHealth](https://github.com/healhealth), and more.
 
 I build software and relationships.
 
