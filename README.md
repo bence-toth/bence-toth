@@ -16,3 +16,5 @@ I build software and relationships.
 I believe that whatever you do, empathy and compassion will go a long way. Be a decent human, and everything else will fall in place.
 
 I might not be wrong about everything I say.
+
+You can also [find me on LinkedIn](https://www.linkedin.com/in/bence-a-toth/) or send me an email at tothab@gmail.com.
