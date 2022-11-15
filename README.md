@@ -7,17 +7,9 @@ because its `README.md` (this file) appears on your GitHub profile.
   <img src="./bence-toth-header.jpg" alt="Hello, I'm Bence A. Toth" />
 </div>
 
-🧑‍💻 Front-end developer<br />
-👷🏻 Software architect<br />
-🧭 Tech lead<br />
-🫂 Mentor<br />
-🧑🏻‍🏫 Teacher<br />
-🎓 Tutor<br />
-🫶 Volunteer<br />
-:octocat: Open source advocate<br />
-⚡️ Functional programming enthusiast<br />
-🦮 a11y nerd<br />
-🎨 CSS ninja
+Front-end developer, software architect, tech lead, mentor, teacher, tutor, volunteer, open source advocate, functional programming enthusiast, a11y nerd, CSS ninja.
+
+Currently working as a Team Lead at @Zendesk.
 
 I build software and relationships.
 
